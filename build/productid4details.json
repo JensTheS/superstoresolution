@@ -1,0 +1,10 @@
+{
+  "description": "500g pineapple",
+  "id": 4,
+  "image": "https://res.cloudinary.com/dbfn5lnvx/image/upload/q_auto/v1607769454/react-tutorial/products/final/pineapple.png",
+  "name": "Pineapple",
+  "nutrition": { "carbs": 22, "fat": 2, "protein": 1, "salt": 0 },
+  "price": 3.25,
+  "price_id": "price_1HxW59GuhXEITAutCwoYZoOJ",
+  "storage": "Store in a cool place, away from the sun."
+}
