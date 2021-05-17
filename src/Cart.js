@@ -28,8 +28,8 @@ export default function Cart({ cart }) {
         .redirectToCheckout({
           lineItems: lineItems,
           mode: "payment",
-          successUrl: "https://localhost:3000/",
-          cancelUrl: "https://localhost:3000/",
+          successUrl: "https://https://jensthes.github.io/superstoresolution/",
+          cancelUrl: "https://https://jensthes.github.io/superstoresolution/",
           customerEmail: email,
         })
         .then((response) => {
