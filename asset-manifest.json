@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/superstoresolution/home/static/css/main.a343e88b.chunk.css",
-    "main.js": "/superstoresolution/home/static/js/main.8640986f.chunk.js",
-    "main.js.map": "/superstoresolution/home/static/js/main.8640986f.chunk.js.map",
-    "runtime-main.js": "/superstoresolution/home/static/js/runtime-main.32712330.js",
-    "runtime-main.js.map": "/superstoresolution/home/static/js/runtime-main.32712330.js.map",
-    "static/js/2.480a70d9.chunk.js": "/superstoresolution/home/static/js/2.480a70d9.chunk.js",
-    "static/js/2.480a70d9.chunk.js.map": "/superstoresolution/home/static/js/2.480a70d9.chunk.js.map",
-    "index.html": "/superstoresolution/home/index.html",
-    "static/css/main.a343e88b.chunk.css.map": "/superstoresolution/home/static/css/main.a343e88b.chunk.css.map",
-    "static/js/2.480a70d9.chunk.js.LICENSE.txt": "/superstoresolution/home/static/js/2.480a70d9.chunk.js.LICENSE.txt"
+    "main.css": "/superstoresolution/static/css/main.a343e88b.chunk.css",
+    "main.js": "/superstoresolution/static/js/main.8640986f.chunk.js",
+    "main.js.map": "/superstoresolution/static/js/main.8640986f.chunk.js.map",
+    "runtime-main.js": "/superstoresolution/static/js/runtime-main.08eadbdd.js",
+    "runtime-main.js.map": "/superstoresolution/static/js/runtime-main.08eadbdd.js.map",
+    "static/js/2.480a70d9.chunk.js": "/superstoresolution/static/js/2.480a70d9.chunk.js",
+    "static/js/2.480a70d9.chunk.js.map": "/superstoresolution/static/js/2.480a70d9.chunk.js.map",
+    "index.html": "/superstoresolution/index.html",
+    "static/css/main.a343e88b.chunk.css.map": "/superstoresolution/static/css/main.a343e88b.chunk.css.map",
+    "static/js/2.480a70d9.chunk.js.LICENSE.txt": "/superstoresolution/static/js/2.480a70d9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.32712330.js",
+    "static/js/runtime-main.08eadbdd.js",
     "static/js/2.480a70d9.chunk.js",
     "static/css/main.a343e88b.chunk.css",
     "static/js/main.8640986f.chunk.js"
