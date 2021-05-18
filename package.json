@@ -2,7 +2,7 @@
   "name": "final-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://JensTheS.github.io/superstoresolution/home",
+  "homepage": "http://JensTheS.github.io/superstoresolution/",
   "dependencies": {
     "@stripe/stripe-js": "^1.11.0",
     "@testing-library/jest-dom": "^5.11.4",

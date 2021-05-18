@@ -64,7 +64,7 @@ function App() {
       <Navbar cart={cart} />
       <div className="container">
         <Switch>
-          <Route exact path="/">
+          <Route exact path="/superstoresolution">
             <Home />
           </Route>
           <Route exact path="/about">
