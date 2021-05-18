@@ -9,12 +9,12 @@ export default function Navbar(props) {
 
   return (
     <nav className="navbar">
-      <NavLink to="/" className="nav-brand">
+      <NavLink to="/superstoresolution" className="nav-brand">
         SuperStoreSolution
       </NavLink>
       <ul>
         <li className="nav-item">
-          <NavLink exact activeClassName="active" to="/">
+          <NavLink exact activeClassName="active" to="/superstoresolution/">
             Home
           </NavLink>
         </li>
