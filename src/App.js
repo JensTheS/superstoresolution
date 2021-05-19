@@ -9,7 +9,6 @@ import Cart from "./Cart.js";
 
 function App() {
   const [cart, setCart] = useState(function () {
-    const savedString = localStorage.getItem("cart");
     let savedCart = [];
     try {
       savedCart = JSON.parse(localStorage.getItem("cart")) || [];
@@ -20,6 +19,7 @@ function App() {
   });
 
   useEffect(() => {
+    document.title = "Super Store Solution";
     if (cart) {
       localStorage.setItem("cart", JSON.stringify(cart));
     }
