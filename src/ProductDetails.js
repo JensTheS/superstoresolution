@@ -13,7 +13,7 @@ import ProductDetailStorage from "./ProductDetailStorage.js";
 
 export default function ProductDetails(props) {
   const [product, setProduct] = useState({});
-  const { get, Loading } = useFetch(
+  const { get } = useFetch(
     "https://todaydo-b2293-default-rtdb.europe-west1.firebasedatabase.app/"
   );
   const params = useParams();
